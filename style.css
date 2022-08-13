@@ -1,19 +1,14 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: greenyellow;
-    color: sandybrown;
+    background-image: radial-gradient(rgb(255, 0, 225),black);
 }
-
 .header_div
 {
-    background:darkmagenta;
-    color:navy;
+    color:white;
 }
-
 .header_div p
 {
-    font-family: 'Festive', cursive;
-    color:crimson;
+    color:white;
     letter-spacing:2px;
     font-size: 12px;
     font-weight:bold;
@@ -21,7 +16,7 @@ body{
 
 .main_div button
 {
-    font-family: 'IM Fell English SC', serif;
+    color:white;
     margin: top 30px;
     width:130px;
     font-weight: 900;
@@ -29,16 +24,13 @@ body{
 }
 
 .copy_right_footer{
+    color:white;
     position: fixed;
     bottom: 0;
     width: 100%;
-    font-family: 'Ephesis', cursive;
     font-size: 20px;
-   background-color: deeppink;
    line-height: 3;
     font-weight: bolder;
-    color: brown;
     text-align: center;
-    text-shadow:10px 10px 10px yellowgreen;
 }
 
